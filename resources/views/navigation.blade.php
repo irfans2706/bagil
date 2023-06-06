@@ -11,6 +11,9 @@
                 <a href="/dashboard" class="nav-link">Atur Adil</a>
             </li>
             <li class="nav-item">
+                <a href="/joingroup" class="nav-link">Lihat Hasil</a>
+            </li>
+            <li class="nav-item">
                 <a href="/aturacak" class="nav-link">Atur Acak</a>
             </li>
             <li class="nav-item">
